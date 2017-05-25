@@ -12,3 +12,7 @@ https://developer.mozilla.org/zh-CN/
 
 5.68¿áÕ¾
 http://www.68design.net/cool/
+
+josnp:
+¶¹°ê½Ó¿Ú£º
+https://api.douban.com/v2/movie/search?q=ÄÚÈÝ&callback=fn
